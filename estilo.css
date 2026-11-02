@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    height: 1500px;
+    width: 1500px;
+    background-color: aqua; 
+    text-align: center;  
+}
+.box1{
+    height: 390px;
+    width: 300px;
+    background-color: rgb(30, 255, 0);
+    padding: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.box2{
+    height: 390px;
+    width: 300px;
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    padding: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+
+.box3{
+    height: 390px;
+    width: 300px;
+    background-color: rgb(229, 255, 0);
+    padding: 40px;
+    margin-top: 10px;
+}
